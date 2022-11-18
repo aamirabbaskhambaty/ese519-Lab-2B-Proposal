@@ -14,3 +14,5 @@ uint32_t button_status = register_read(QTPY_BOOT_PIN_REG);
 ````
 3. If the button status is 0 then the LED is set to glow up
 Else the led remians off.
+
+![blink_on_boot](https://user-images.githubusercontent.com/114099174/200090063-4bb468eb-cbae-46fa-bdc5-82a3193f4ce8.gif)
