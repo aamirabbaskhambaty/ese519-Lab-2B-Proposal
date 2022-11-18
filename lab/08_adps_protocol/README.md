@@ -18,7 +18,9 @@ Use the capabilities of your sequencer to implement the ADPS9960 protocol and co
 
 ![Screenshot 2022-11-18 154803](https://user-images.githubusercontent.com/114267693/202799710-808f16df-aedc-4591-9085-bd978fa28238.png)
 ![image](https://user-images.githubusercontent.com/114267693/202799826-1bbe31e4-e395-43d1-9cd2-6e9f297dde9b.png)
+
 7. The final Output we achieve is as follows:
+
 ![WhatsApp Image 2022-11-18 at 3 18 57 PM](https://user-images.githubusercontent.com/114267693/202800216-24bd1b1b-14c2-4e6f-870b-2eb24a4e7d7c.jpeg)
 
 
