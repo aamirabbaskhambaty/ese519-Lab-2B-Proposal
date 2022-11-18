@@ -14,7 +14,7 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 
 ### Explanation:
 1. The goal of this lab is to record the boot button presses 5 times, and correspondingly light the neopixel led with the same time sequence as the button presses.
-2. We first record the button presses using the register read button. 
+2. We first record the button presses using the register read function. 
 3. If the button is pressed we increment a varibale known as counter, else the value of this counter is stored at the "i"th position of an array known as get count. i loops from 0 to total number of button presses to be recorded, ie 5.
 ```
 uint32_t button_status = register_read(QTPY_BOOT_PIN_REG);
