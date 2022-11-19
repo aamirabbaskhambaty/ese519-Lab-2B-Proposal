@@ -72,3 +72,6 @@ if (!gpio_get(BOOT_PIN_NUM))
         sleep_ms(500);
     }
 ```
+Output capture of i2c traffic
+![Screenshot 2022-11-18 212718](https://user-images.githubusercontent.com/114267693/202830122-5b3bf491-8b3b-44b6-a90f-2bd375fb6e0f.png)
+
