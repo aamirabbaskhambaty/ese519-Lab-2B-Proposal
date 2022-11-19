@@ -75,5 +75,10 @@ pio_sm_set_consecutive_pindirs(pio, sm1, QTPY_BOOT_PIN_NUM, 1, false);
 ```
 uint32_t pinval = pio_sm_get(pio, sm1);
 ```
+Video:
+
+
+
+https://user-images.githubusercontent.com/114267693/202834690-8cf2bcf2-17f0-4077-95a8-8a5b01780b79.mp4
 
 
